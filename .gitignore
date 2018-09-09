@@ -1,0 +1,6 @@
+projects/
+.Rhistory
+.keras/
+.virtualenvs/
+.cache/
+.rstudio/

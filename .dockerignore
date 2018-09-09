@@ -1,0 +1,9 @@
+Makefile
+projects/
+.gitignore
+.keras/
+.virtualenvs/
+.cache/
+.Rprofile
+.Rhistory
+.rstudio/
